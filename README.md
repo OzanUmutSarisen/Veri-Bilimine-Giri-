@@ -13,13 +13,9 @@ Büyük veri analitiği, bu büyük ve karmaşık veri kümelerinden anlamlı bi
 ## Büyük Veri Analitiğinin Faydaları Nelerdir?
 
 > 1. Veriye Dayalı Kararlar: Büyük veri analitiği, işletmelerin verileri inceleyerek daha iyi kararlar almasını sağlar.
-
 > 2. Müşteri İlişkileri Yönetimi: Müşteri davranışları ve tercihleri hakkında daha iyi anlayış geliştirir.
-
 > 3. Risk Yönetimi: Büyük veri analitiği, finansal riskleri ve dolandırıcılığı tespit etmek için kullanılabilir.
-
 > 4. Operasyonel Verimlilik: İşletmeler, operasyonlarını daha verimli hale getirmek için veri analitiği kullanabilir.
-
 > 5. Yeni Fırsatlar: Büyük veri analitiği, pazar trendlerini ve yeni fırsatları tanımlamada yardımcı olur.
 
 ## Sonuç
